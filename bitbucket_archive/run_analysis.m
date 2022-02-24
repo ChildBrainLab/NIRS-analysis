@@ -1,6 +1,7 @@
 function run_analysis
 %% Configuration
-nirs_data_dir = '/data/R01-EmoGrow/Scan Data';
+% nirs_data_dir = '/data/R01-EmoGrow/Scan Data';
+nirs_data_dir = '/data/perlman/moochie/study_data/EmoGrow/NIRS_data';
 demographics_dir = '/data/R01-EmoGrow/Scan Data';
 synchrony_dir = '/data/R01-EmoGrow/Scan Data/Codes';
 puzzle_dir = '/data/R01-EmoGrow/Scan Data';
